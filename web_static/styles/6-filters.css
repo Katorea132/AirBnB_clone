@@ -71,11 +71,12 @@
 
 .filters div:hover .popover{
 	display: flex;
+	position: relative;
 	background-color: #FAFAFA;
 	width: 100%;
 	border: #DDD solid 1px;
 	border-radius: 4px;
-	padding: 0;
+	padding: 0px;
 	margin-top: 20px;
 	flex-direction: column;
 	list-style: none;
@@ -86,5 +87,5 @@
 }
 
 .upperpaddy {
-	padding-top: 35px;
+	padding-top: 20px;
 }
