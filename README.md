@@ -56,4 +56,4 @@ All the tests were made with the module unittest, these are stored in the folder
 
 [Alejandro Ramirez](https://github.com/FatChiken277)
 
-[Sebastian Escobar](https://github.com/Katorea132)
+[Katorea132](https://github.com/Katorea132)
